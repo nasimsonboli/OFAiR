@@ -1,5 +1,7 @@
 # OFAiR
+
 Opportunistic Multi-aspect Fairness through Personalized Re-ranking
+
 Nasim Sonboli, Farzad  Eskandanian, Robin Burke, Weiwen  Liu, Bamshad  Mobasher
 
 UMAP '20: Proceedings of the 28th ACM Conference on User Modeling, Adaptation and PersonalizationJuly 2020 
